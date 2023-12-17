@@ -14,7 +14,7 @@ namespace Pimject
 
             if (System.Diagnostics.Process.GetProcessesByName(System.IO.Path.GetFileNameWithoutExtension(System.Reflection.Assembly.GetEntryAssembly().Location)).Count() > 1)
             {
-                MessageBox.Show("Pimject is already running", "That's fine. I'll make sure to not interrupt em oki? I'll close with Pimax play anyways UwU");
+                MessageBox.Show("That's fine. I'll make sure to not interrupt em oki? I'll close with Pimax play anyways", "Pimject is already running");
 
                 //new ToastContentBuilder()
                 //    .AddText("Pimject is already running")
