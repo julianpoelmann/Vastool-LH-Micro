@@ -63,29 +63,9 @@ namespace VastoolLHMicro.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1556331305_madkuzya_axeon_actros_2_1_ {
-            get {
-                object obj = ResourceManager.GetObject("_1556331305_madkuzya_axeon_actros_2_1_", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap _535387178696572931 {
             get {
                 object obj = ResourceManager.GetObject("_535387178696572931", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tumblr_pffmdmhZhl1t4zgdvo1_400 {
-            get {
-                object obj = ResourceManager.GetObject("tumblr_pffmdmhZhl1t4zgdvo1_400", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
